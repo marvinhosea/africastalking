@@ -49,9 +49,5 @@
                 "NotificationChannels\\AfricasTalking\\AfricasTalkingServiceProvider"
             ]
         }
-    },
-    "repositories": [{
-        "type": "vcs",
-        "url": "https://github.com/marvinhosea/africastalking-php.git"
-    }]
+    }
 }

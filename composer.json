@@ -1,5 +1,5 @@
 {
-    "name": "marvin-notification-channels/africastalking",
+    "name": "appslabke/laravel-notification-channels-africastalking",
     "description": "This package makes it easy to send notifications via AfricasTalking with Laravel",
     "keywords": [
         "africastalking",

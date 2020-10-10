@@ -17,7 +17,7 @@
     }],
     "require": {
         "php": "^7.2.5",
-        "africastalking/africastalking": "dev-master",
+        "marvin/africastalking": "dev-master",
         "guzzlehttp/guzzle": "^7.0.1",
         "illuminate/notifications": "~5.5 || ~6.0 || ~7.0 || ^8.0",
         "illuminate/support": "~5.5 || ~6.0 || ~7.0 ||  ^8.0"
@@ -50,10 +50,8 @@
             ]
         }
     },
-    "repositories": {
-        "local": {
-            "type": "vcs",
-            "url": "https://github.com/marvinhosea/africastalking-php.git"
-        }
-    }
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/marvinhosea/africastalking-php.git"
+    }]
 }
